@@ -680,7 +680,11 @@ h1 {
         overflow-x: hidden;
     }
     #container{
-        width: calc(400px + 225px + 225px + 125px);
+        width: 95%;
+    }
+
+    .contentHome{
+        width: 100%;
     }
     
     aside {display: none;}
