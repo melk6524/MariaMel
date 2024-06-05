@@ -10,8 +10,8 @@
 
 @font-face {
   font-family: 'Manstein';
-  src:  url('assets/fonts/Manstein.woff2') format('woff2'),
-        url('assets/fonts/Manstein.woff') format('woff');
+  src:  url('.../webfonts/Manstein.woff2') format('woff2'),
+        url('.../webfonts/Manstein.woff') format('woff');
 }
 
 /*
@@ -3568,7 +3568,7 @@ input, select, textarea {
 	}
 
 	.home {
-		background-image: url('assets/css/images/headerPic.jpg');
+		background-image: url('images/headerPic.jpg');
 		background-position: center center;
 		background-size: cover;
 		background-attachment: fixed;
@@ -3576,7 +3576,7 @@ input, select, textarea {
 	}
 
 	.story {
-		background-image: url('assets/css/images/storyPic.jpg');
+		background-image: url('images/storyPic.jpg');
 		background-position: 15% 35% !important;
 		background-size: cover;
 		background-repeat: no-repeat;
@@ -3584,7 +3584,7 @@ input, select, textarea {
 	}
 
 	.hotels {
-		background-image: url('assets/css/images/partyPic.jpg');
+		background-image: url('images/partyPic.jpg');
 		background-position: center center;
 		background-size: cover;
 		background-repeat: no-repeat;
@@ -3592,7 +3592,7 @@ input, select, textarea {
 	}
 
 	.faq {
-		background-image: url('assets/css/images/faqPic.jpg');
+		background-image: url('images/faqPic.jpg');
 		background-position: center center;
 		background-size: cover;
 		background-repeat: no-repeat;
